@@ -10,7 +10,11 @@ Bonne découverte ! 😉
 
 📱 **SOMMAIRE**
 + [**QUELQUES INDISPENSABLES**](#quelques-indispensables)
+  + [Gestionnaire de mots de passe](#gestionnaire-de-mots-de-passe)
 
 ---
 
 ## Quelques indispensables
+
+### Gestionnaire de mots de passe
+
