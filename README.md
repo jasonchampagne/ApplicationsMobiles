@@ -34,3 +34,5 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |NOM|PLATEFORME(S)|GRATUIT ?|
 |:--|:--|:--:|
 |[**Brave**](https://brave.com/fr)|Android, iOS|✔|
+|[**Chrome**](https://www.google.com/chrome)|Android, iOS|✔|
+|[**Firefox**](https://www.mozilla.org/fr/firefox/new)|Android, iOS|✔|
