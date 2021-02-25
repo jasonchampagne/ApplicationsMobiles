@@ -29,6 +29,8 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 
 ### Navigateur web
 
+Pour discuter sur internet, surfer sur le web, consulter des sites administratifs, se connecter aux réseaux sociaux, regarder du contenu en streaming ou faire ses achats en ligne.
+
 |NOM|PLATEFORME(S)|GRATUIT ?|
 |:--|:--|:--:|
 ||||
