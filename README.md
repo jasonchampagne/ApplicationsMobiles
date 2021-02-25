@@ -22,4 +22,5 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 
 |NOM|PLATEFORME(S)|GRATUIT ?|
 |:--|:--|:--:|
-|[**KeePass DX**](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)|Android|✔|
+|[**Bitwarden**](https://bitwarden.com)|Android, iOS|✔|
+|[**KeePass**](https://keepass.info/index.html)|Android, iOS|✔|
