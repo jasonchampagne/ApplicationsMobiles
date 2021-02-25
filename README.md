@@ -37,3 +37,4 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |[**Chrome**](https://www.google.com/chrome)|Android, iOS|✔|
 |[**Firefox**](https://www.mozilla.org/fr/firefox/new)|Android, iOS|✔|
 |[**Opera Touch**](https://www.opera.com/fr/mobile/touch)|Android, iOS|✔|
+|[**Vivaldi**](https://vivaldi.com/fr/android/)|Android|✔|
