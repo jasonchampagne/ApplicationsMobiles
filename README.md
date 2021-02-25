@@ -24,3 +24,4 @@ Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'u
 |:--|:--|:--:|
 |[**Bitwarden**](https://bitwarden.com)|Android, iOS|✔|
 |[**KeePass**](https://keepass.info/index.html)|Android, iOS|✔|
+|[**LastPass**](https://www.lastpass.com/fr)|Android, iOS|✔ / ❌|
