@@ -18,6 +18,8 @@ Bonne découverte ! 😉
 
 ### Gestionnaire de mots de passe
 
+Pour sécuriser dans un coffre-fort chiffré ses identifiants et faire usage d'un unique mot de passe (et complexe) pour chaque compte utilisateur.
+
 |NOM|PLATEFORME(S)|GRATUIT ?|
 |:--|:--|:--:|
 |[**KeePass DX**](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)|Android|✔|
