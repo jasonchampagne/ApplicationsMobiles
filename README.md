@@ -36,3 +36,4 @@ Pour discuter sur internet, surfer sur le web, consulter des sites administratif
 |[**Brave**](https://brave.com/fr)|Android, iOS|✔|
 |[**Chrome**](https://www.google.com/chrome)|Android, iOS|✔|
 |[**Firefox**](https://www.mozilla.org/fr/firefox/new)|Android, iOS|✔|
+|[**Opera Touch**](https://www.opera.com/fr/mobile/touch)|Android, iOS|✔|
